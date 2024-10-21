@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cdcf604-389e-4544-8f63-46bc51d4edcb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <updated>1728914322253</updated>
       <workItem from="1728914324017" duration="11000" />
       <workItem from="1728914350626" duration="112000" />
-      <workItem from="1728914468840" duration="827000" />
+      <workItem from="1728914468840" duration="4715000" />
     </task>
     <servers />
   </component>
